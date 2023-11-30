@@ -1,0 +1,7 @@
+C:\Users\SuriyaPrakash\source\repos\day-19\Assignment24\bin\Debug\Assignment24.exe.config
+C:\Users\SuriyaPrakash\source\repos\day-19\Assignment24\bin\Debug\Assignment24.exe
+C:\Users\SuriyaPrakash\source\repos\day-19\Assignment24\bin\Debug\Assignment24.pdb
+C:\Users\SuriyaPrakash\source\repos\day-19\Assignment24\obj\Debug\Assignment24.csproj.AssemblyReference.cache
+C:\Users\SuriyaPrakash\source\repos\day-19\Assignment24\obj\Debug\Assignment24.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\day-19\Assignment24\obj\Debug\Assignment24.exe
+C:\Users\SuriyaPrakash\source\repos\day-19\Assignment24\obj\Debug\Assignment24.pdb
